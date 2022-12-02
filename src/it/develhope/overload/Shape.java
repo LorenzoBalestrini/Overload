@@ -15,7 +15,7 @@ public class Shape {
         shapeName = "Circle";
     }
     public Shape(int edges, double edgeLength){
-        System.out.println(" a square has been created");
+        System.out.println("A square has been created");
         numberOfEdges = 4;
         shapeName = "Square";
     }
